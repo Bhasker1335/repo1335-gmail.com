@@ -1,0 +1,1 @@
+//annotate AdminService @(requires: 'Administrators');

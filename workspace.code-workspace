@@ -1,0 +1,10 @@
+{
+    "folders": [
+        {
+            "path": "javacap1"
+        }
+    ],
+    "settings": {
+        "SAP HANA Database Explorer.ShowXsAdvancedConnections": true
+    }
+}

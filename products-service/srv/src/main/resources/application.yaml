@@ -1,0 +1,22 @@
+
+---
+spring:
+  config.activate.on-profile: default
+  sql.init.schema-locations: classpath:schema-h2.sql
+cds:
+  data-source.auto-config.enabled: false
+  security:
+    mock:
+      users:
+        - name: ram
+          password: ram
+          additional:
+            firstName: ramesh
+            lastName: Reddy
+            email: ramesh@gmail.com
+        - name: bas
+          password: bas
+          additional:
+            firstName: Bhasker
+            lastName: Reddy
+            email: gbrinfo1335@gmail.com
