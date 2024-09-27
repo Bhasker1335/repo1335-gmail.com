@@ -1,1 +1,1 @@
-//annotate AdminService @(requires: 'Administrators');
+annotate AdminService @(requires: 'Administrators');

@@ -20,3 +20,11 @@ cds:
             firstName: Bhasker
             lastName: Reddy
             email: gbrinfo1335@gmail.com
+        - name: reddy
+          password: reddy
+          roles: 
+            - Administrators
+          additional:
+            firstName: reddy
+            lastName: reddylast
+            email: reddy1@gamail.com
